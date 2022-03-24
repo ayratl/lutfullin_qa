@@ -4,3 +4,7 @@
 ---
 
 [Пример моего тестового задания 2.9](https://docs.google.com/spreadsheets/d/19ls3ChlEb_9eGcPLeslJTxu9mtrd8cIV8CGyRdnL9jo/edit?usp=sharing)
+
+---
+
+[Примеры найденных багов со страницы поиска kontur.ru/search и оформленных в Jira](https://qqaa.atlassian.net/jira/software/c/projects/K1/boards/1?atlOrigin=eyJpIjoiYjVjMGFlZjUyYTJlNDc1NjgyMDRjYjJkMjVjM2ZhMDkiLCJwIjoiaiJ9)
