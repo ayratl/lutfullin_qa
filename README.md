@@ -8,3 +8,7 @@
 ---
 
 [Примеры найденных багов со страницы поиска kontur.ru/search и оформленных в Jira](https://qqaa.atlassian.net/jira/software/c/projects/K1/boards/1?atlOrigin=eyJpIjoiYjVjMGFlZjUyYTJlNDc1NjgyMDRjYjJkMjVjM2ZhMDkiLCJwIjoiaiJ9)
+
+---
+
+[Примеры найденных багов с сайта vmedia.ca и оформленных в Jira](https://qqaa.atlassian.net/jira/software/c/projects/VMED/boards/2?atlOrigin=eyJpIjoiMDQ3NDNkNWQ5M2NhNGFiNzhhZWNiYjI3OTdkYmI4NzAiLCJwIjoiaiJ9)
